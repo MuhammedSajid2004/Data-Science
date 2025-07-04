@@ -1,0 +1,1 @@
+This repository showcases a collection of end-to-end data science projects leveraging Artificial Intelligence and Machine Learning. From data preprocessing and visualization to model building and deployment, each project demonstrates practical solutions to real-world problems using popular tools like Python, Scikit-learn, Pandas, and more.
